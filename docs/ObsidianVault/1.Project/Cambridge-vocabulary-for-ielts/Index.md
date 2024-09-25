@@ -1,13 +1,9 @@
 ---
 longform:
   format: scenes
-  title: CAM15
+  title: Cambridge-vocabulary-for-ielts
   workflow: Default Workflow
   sceneFolder: /
-  scenes:
-    - READING
-    - - PART1
-      - PART2
-    - LISTENING
+  scenes: []
   ignoredFiles: []
 ---
