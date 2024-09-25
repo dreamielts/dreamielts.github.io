@@ -9,5 +9,6 @@ longform:
     - CAM15_TEST1_READING2
     - - 15.T1.R1.A
       - 15.T1.R2.B
+      - 15.T1.R2.C
   ignoredFiles: []
 ---
