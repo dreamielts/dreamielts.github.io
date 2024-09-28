@@ -5,7 +5,7 @@ longform:
   workflow: Default Workflow
   sceneFolder: /
   scenes:
-    - cam15-test1-L-part1
+    - CAM15.TEST1.L.P1
     - CAM15_TEST1_READING1
     - CAM15_TEST1_READING2
     - - 15.T1.P2.A
