@@ -16,7 +16,9 @@ And I'm Sam.
 
 It's hard to feel positive when you hear about climate change, don't you think, Neil?
 
-Yes, according to the UN's Cop26 conference, we're heading for a catastrophic global temperature rise of three degrees by the end of this century...
+Yes, according to the UN's Cop26 conference, we're heading for a [[catastrophic]] global temperature rise of three degrees by the end of this century...
+
+<font color="#ff0000">Vâng, theo hội nghị Cop26 của Liên Hợp Quốc, chúng ta đang hướng tới mức tăng nhiệt độ toàn cầu thảm khốc là 3 độ vào cuối thế kỷ này.</font>
 
 Fires are blazing from the Amazon to the Arctic...
 
