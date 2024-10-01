@@ -6,6 +6,8 @@ longform:
   sceneFolder: /
   scenes:
     - UNIT4
-    - - 4A
+    - - 4A-track11
+      - 4B
+      - 5A
   ignoredFiles: []
 ---

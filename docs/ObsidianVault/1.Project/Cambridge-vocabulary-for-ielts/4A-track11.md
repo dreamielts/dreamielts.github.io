@@ -33,8 +33,6 @@ a    big  [[impact  on]]  ==[[your  quality  of  life]].==
 
 <font color="#6425d0">Đối với tôi, chỉ có một cách để thư giãn và đó là thông qua thể thao. Tôi thích sống cuộc sống trên đỉnh cao, nên tôi làm rất nhiều môn thể thao mạo hiểm như đi dù lượn và lặn biển sâu. Khi bạn đang trong một tình huống nguy hiểm, đó là khi bạn thực sự cảm thấy sống. Tôi nghĩ rằng thái độ của bạn có tác động lớn đến chất lượng cuộc sống của bạn.</font>
 
-
-
 ## **Interviewer:**  [[What’s  your  idea  of  a   perfect  day]]? 
  Speaker  3:   
 I don’t  think  there's  any  such  thing  as  the  perfect  day 
