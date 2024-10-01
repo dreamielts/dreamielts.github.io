@@ -23,7 +23,7 @@ theme:
     - media: "(prefers-color-scheme: light)"
       scheme: default
       primary: brown
-      accent: brown
+      accent: pink
       toggle:
         icon: material/weather-sunny
         name: Switch to dark mode
