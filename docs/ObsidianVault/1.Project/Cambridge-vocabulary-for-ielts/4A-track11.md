@@ -24,7 +24,7 @@ You  have  to work  hard  if  you  want  to  achieve  anything  in  your  life
 
 ## Interviewer:  [[What  do  you  like  to  do  to  relax]]? 
 
-**Speaker  2:**    For  me  there  is   only  one  way  to  relax  and  that's  through 
+**Speaker  2:**    For  me  there  is   only  one  way  to  [[relax]]  and  that's  through 
 sport. ==[[ I like  to  live  life  on  the  edge]],==  so  do  a   lot  of  extreme  sports 
 like  ==[[paragliding]]==  and  deep  sea  diving.
 When  you're  in  a   dangerous 
@@ -43,14 +43,14 @@ I think  it's  a   waste  of  time  making  plans  like  that.  Life  can  be  f
 disappointments. 
 
 ## Interviewer:  [[How  would  you  describe  your  attitude  to  life]]? 
-Speaker  4:  I  have  a   very  positive  outlook  on  life.  I think  it's 
+Speaker  4:  I  have  a   very  positive  ==[[outlook]]==  on  life.  I think  it's 
 important  ta  treat  every  day  as  special  and  live  life  to  the  full.  
 
 <font color="#ff0000">Tôi có một quan điểm rất tích cực về cuộc sống. Tôi nghĩ rằng điều quan trọng là đối xử với mỗi ngày như một ngày đặc biệt và sống cuộc sống đến mức tối đa.</font>
 
-Some people  approach  everything  as  if  their  glass  is   half  empty.  If   you 
+Some people  ==approach==  everything  as  if  their  glass  is   half  empty.  If   you 
 do  that  then  it   will  colour  every  experience  you  have.  I   think  if  you 
-want  to  lead  a  happy  life  then  you  need  to  have  a   positive  approach 
+want  to  lead  a  happy  life  then  you  need  to  have  ==[[ a   positive  approach ]]==
 to  everything. 
 
 <font color="#ff0000">Một số người tiếp cận mọi thứ như thể cốc của họ chỉ đầy nửa. Nếu bạn làm như vậy thì nó sẽ tô màu cho mọi kinh nghiệm bạn có. Tôi nghĩ rằng nếu bạn muốn dẫn một cuộc sống hạnh phúc thì bạn cần phải có một cách tiếp cận tích cực đối với mọi thứ.</font>
