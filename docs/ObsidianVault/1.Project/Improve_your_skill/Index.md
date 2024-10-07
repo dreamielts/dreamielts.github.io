@@ -1,11 +1,11 @@
 ---
 longform:
   format: scenes
-  title: 6_minutes_english
+  title: Improve_your_skill
   workflow: Default Workflow
   sceneFolder: /
   scenes:
-    - Climate_change
-    - Are human a messy species
+    - page7
+    - page8
   ignoredFiles: []
 ---
