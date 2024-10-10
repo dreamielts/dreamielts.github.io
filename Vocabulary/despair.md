@@ -23,3 +23,6 @@ After hearing the news, she felt **despair**.
 ![[Vocabulary/Audio/Audio-1728545613802.mp3]]
 ## Source
  [[docs/ObsidianVault/1.Project/Cambridge-vocabulary-for-ielts/5B-TRACK14.md|5B-TRACK14]] [[Vocabulary/despair|despair]]
+
+
+[[deep despair]]
