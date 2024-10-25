@@ -69,7 +69,7 @@ earning
 **In this programme, we’ll be finding out why we forget the things we’ve learned, whether that’s someone’s name, a word in English or where you put your wallet.
 
 **Georgina
-**But first let me ask you my quiz question, Rob - before I forget. You and I might struggle to remember someone’s phone number but Chinese student, Chao Lu, has a record-breaking memory. In 2005, she recited the numbers of pi, the mathematical equation describing the proportions of a circle – but how many digits did she manage to remember? Was it:
+**But first let me ask you my quiz question, Rob - before I forget. You and I might struggle to remember someone’s phone number but Chinese student, Chao Lu, has a record-breaking memory. In 2005, she ==[[recited]]== the numbers of pi, the [[mathematical]] equation describing the proportions of a circle – but how many digits did she manage to remember? Was it:
 a)  48,000?
 b)  68,000? or
 c)  88,000?
@@ -160,3 +160,6 @@ c)  88,000?
 
 **Georgina
 **Bye!
+
+---
+![](https://i.imgur.com/TwwKmm3.png)
