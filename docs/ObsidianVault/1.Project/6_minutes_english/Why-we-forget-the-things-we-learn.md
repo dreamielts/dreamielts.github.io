@@ -90,28 +90,31 @@ c)  88,000?
 **Listen to Dr Horvath talking to BBC World Service programme, The Why Factor, and see if you can hear the two rules he mentions: 
 
 **Dr Jared Horvath
-**Rule number one is repetition is key. **The odds of** remembering something after a **one-off** are incredibly slim…unless you can immediately link it to something you already understand – so, my middle name is Cuney… if I ever meet someone named Cuney I’ll never forget that ‘cos I have an immediate link… but if I meet someone named Joe… so a one-off, we all pretty much **suck at** it - unless we focus. So then rule two then becomes, we remember what we focus on.
+**Rule number one is repetition is key. **The odds of** remembering something after a **one-off** are incredibly slim…unless you can immediately link it to something you already understand – so, my middle name is Cuney… if I ever meet someone named Cuney I’ll never forget that ‘cos I have an immediate link… but if I meet someone named Joe… so a one-off, we all pretty much **==suck== at** it - unless we focus. So then rule two then becomes, ==we remember what we focus on.==
 
 **Georgina
 **The first rule for remembering is repetition. **The odds** – meaning the probability, of remembering something are low if you learn it as a **one-off** - something that only happens once.
 
 **Rob
-**Dr Horvath’s second rule is about focus: we remember what we focus on. This involves making links between new information and something you already understand. 
+**Dr Horvath’s second rule is about focus: ==we remember what we focus on.== This involves making links between new information and something you already understand. 
 
 **Georgina
-**These are the most effective methods of remembering, and most of us **suck at** – or are bad at – other ways of remembering things.
+**These are the most effective methods of remembering, and most of us **==suck at**== – or ==are bad at== – other ways of remembering things.
 
 **Rob
-**Now, of course, one group of people who need good memory is students. Do you remember cramming for school exams, Georgina?
+**Now, of course, ==one group of people== who need good memory is students. Do you remember ==[[cramming]]== for school exams, Georgina?
 
 **Georgina
-**Ah yes, staying up late trying to revise everything the night before an exam. I remember doing that - but it didn’t work!
+**Ah yes, staying up late trying to revise everything the night before an exam. I remember doing that - but ==it didn’t work!==
 
 **Rob
-**Yes. Dr Horvath’s research found that students who cram for tests forget around 90% of what they studied within 72 hours. 
+**Yes. Dr Horvath’s research found that students who ==cram== for tests forget around 90% of what they studied within 72 hours. 
 
 **Georgina
-**He thinks education shouldn’t be about trying to cram students’ heads with facts and figures. It should involve something more meaningful, as he explains to BBC World Service’s, The Why Factor: 
+**He thinks education shouldn’t be about trying to cram students’ heads with facts and figures. It should involve something more [[meaningful,]] as he explains to BBC World Service’s, The Why Factor: 
+
+<font color="#ff0000">**He thinks education shouldn’t be about trying to cram students’ heads with facts and figures. </font>
+<font color="#ff0000">Ông ấy nghĩ rằng giáo dục không nên chỉ về việc cố gắng nhồi nhét đầu học sinh với các sự kiện và con số.</font>
 
 **Dr Jared Horvath
 **The thing that I like about education is its really moving from a model of ‘just **memorise** as much as you can’ into what we now call **deep learning** which is, instead of giving you a hundred things and I just need to know that you can remember them, I’m going to give you ten things and instead of just being able to remember them, I want you to be able to describe it deeply and come up with new ways of looking at it.
