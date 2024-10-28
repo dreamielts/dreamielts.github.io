@@ -7,7 +7,7 @@ date: 2024-10-24
 Related: 
 book:
 ---
-
+[[6minutesEnglish]]
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1iHeeMlOsyc?si=KqX94IVAnHfMjb1p" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ### **Introduction**
 

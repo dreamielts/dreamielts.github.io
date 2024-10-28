@@ -7,7 +7,7 @@ Related:
 book:
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5R3WdBE1-JM?si=FWVVCKMPJOx6PrOQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+[[6minutesEnglish]]
 ### **Introduction**
 
 Is there more to coffee than just drinking it? Experts say that the smell of the beans is just as important. Neil and Catherine discuss the science behind why coffee often smells better than it tastes and teach some new vocabulary along the way.
@@ -30,16 +30,19 @@ Listen to the programme to find out the answer.
 **key  
 **essential, necessary
 
-**a physiological response  
+==**[[a physiological response]]==  : <font color="#d83931">phản ứng sinh lý</font>
 **a reaction your body has to something, like a smell
 
-**to be baffled by something  
+
+
+
+[[to be baffled by something]] ( thành ngữ) : bối rối, không hiểu về điều gì
 **to be confused by something, to not understand it
 
 **a chain  
 **a group of shops from the same company, all the shops have the same design and sell the same or very similar products
 
-**weird  
+[[weird]]
 **unusual, strange
 
 ### Transcript 
@@ -146,6 +149,8 @@ c: Ethiopia
 **Tim Hayward  
 **What **baffles** me is that how many of the large coffee **chains** actually sell a product in a cup that removes the smell. So you walk into the coffee shop, you get the smell, but when you actually take the drink out you are drinking it from something that is designed to deliver the hot liquid directly past your tongue but stop any smell coming up to your nose. That's just **weird**.
 
+<font color="#d83931">Điều làm tôi bối rối là nhiều chuỗi cà phê lớn thực sự bán sản phẩm trong cốc được thiết kế để loại bỏ mùi. Vì vậy, bạn bước vào quán cà phê, bạn ngửi thấy mùi, nhưng khi bạn lấy đồ uống ra, bạn uống từ thứ gì đó được thiết kế để cung cấp chất lỏng nóng trực tiếp đến lưỡi nhưng chặn mùi không cho đến mũi. Đó chỉ là điều kỳ lạ.</font>
+
 **Neil  
 **So what is he describing there?
 
@@ -177,13 +182,13 @@ Catherine, you said?
 **So the first word was **vital**, which is an adjective that means very important. And another word with a very similar meaning was **key**, meaning essential.
 
 **Neil  
-**Next we had the phrase **physiological responses**. **Physiological** refers to what our bodies do and a **response** is a reaction.So a **physiological response** is a reaction your body has to something, like the smell of coffee.
+**Next we had the phrase **==physiological responses==**. **Physiological** refers to what our bodies do and a **response** is a reaction.So a **physiological response** is a reaction your body has to something, like the smell of coffee.
 
 **Catherine  
-**Something that **baffles** you, confuses you, you don't understand it.
+**Something that **==[[baffles]]==** you, confuses you, you don't understand it.
 
 **Neil  
-**You might find something that **baffles** you to be **weird**. This adjective means unusual or strange.
+**You might find something that **==baffles==** you to be **weird**. This adjective means unusual or strange.
 
 **Catherine  
 **And finally, a **chain** is a group of shops from the same company with the same name.
@@ -192,7 +197,7 @@ Catherine, you said?
 **Well that is the end of our programe. For more from us, check out Instagram, Facebook, Twitter, YouTube and our App and of course the website bbclearningenglish.com. See you soon, bye.
 
 **Catherine  
-**Bye! Fancy a coffee?
+**Bye! ==Fancy a coffee?==  :: <font color="#d83931">Bạn muốn uống cà phê?</font>
 
 **Neil  
 **I think you've had too much!
