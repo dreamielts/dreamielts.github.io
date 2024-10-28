@@ -102,7 +102,7 @@ c)  88,000?
 **These are the most effective methods of remembering, and most of us **==suck at**== – or ==are bad at== – other ways of remembering things.
 
 **Rob
-**Now, of course, ==one group of people== who need good memory is students. Do you remember ==[[cramming]]== for school exams, Georgina?
+**Now, of course, ==one group of people== who need good memory is students. Do you remember ==[[docs/ObsidianVault/mess/cramming]]== for school exams, Georgina?
 
 **Georgina
 **Ah yes, staying up late trying to revise everything the night before an exam. I remember doing that - but ==it didn’t work!==
