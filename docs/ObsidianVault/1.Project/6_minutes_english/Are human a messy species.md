@@ -1,3 +1,11 @@
+---
+title: temp
+aliases: 
+tags: 
+date: 2024-10-29
+Related: 
+book:
+---
 
 
 ---
