@@ -1,0 +1,132 @@
+**TRANSCRIPT**
+
+Note: This is not a word-for-word transcript.
+
+**Neil**
+Hello. This is 6 Minute English from BBC Learning English. I’m Neil.
+
+**Georgie
+**And I’m Georgie.
+
+**Neil
+**So, Georgie I’d like to know if you have any brothers and sisters, and if you get on well with them.
+
+**Georgie
+**Yes, I do. I have a sister and we get on very well. We didn’t used to but now that we’re adults we get on well.
+
+**Neil
+**Well, in this programme we’ll be discussing one of the closest relationships there is: the connection between sisters. We’ll hear from three Irish sisters reuniting on a radio show, and from a psychotherapist on some stereotypes about sisterhood. Plus, we’ll be learning some useful new vocabulary too. And remember, if you want to read along while you listen you can find the script for this programme on our website, bbclearningenglish.com.
+
+**Georgie
+**Yeah, great idea! Now, whether you have one or not, our history and culture is full of sisters, from the fairy tale of Cinderella and her ugly sisters to tennis players, Venus and Serena Williams. And currently two sisters, Ellie and Rachel Reeves, are senior ministers in the British government. So, Neil, my question for you is this: what is Rachel Reeves' government job? Is she:
+
+a)  Home Secretary?
+b)  Foreign Secretary? or
+c)  Chancellor of the Exchequer?
+
+**Neil
+**Well I think the answer is c) the Chancellor of the Exchequer, which is the name of the finance minister in the UK.
+
+**Georgie
+**OK, Neil, we'll find out if that's the correct answer later in the programme.
+
+**Neil
+**Nuala McGovern, the presenter of BBC Radio 4's Woman’s Hour, has two sisters.
+
+**Nuala McGovern
+**They both live in Ireland so they're joining me on a video call. Hello Eileen. Hello Vera. Welcome to Woman’s Hour.
+
+**Vera
+**Hello.
+
+**Eileen
+**Hello.
+
+**Georgie
+**Nuala was born in Dublin and moved to New York then London to work as a journalist, while her two sisters stayed in Ireland. Here she introduces her older sister, Vera, and younger sister Eileen, for a BBC Radio 4 Woman's Hour special about sisterhood. Nuala was a little worried what her sisters would say about her on the radio, so let’'s listen in and find out:
+
+**Nuala McGovern
+**Eileen, what would you say if you were to describe our relationship as sisters?
+
+**Eileen
+**Very connected, I think, and we do **get on** very well which I'm proud to say.
+
+**Nuala McGovern
+**Yes, exactly. I’m going to **put you on the spot**, Vera. What word would you use to describe me as a sister?
+
+**Vera
+**I couldn't give you a word, but you definitely **march to your own drum**. What would that word be? 
+
+**Nuala McGovern
+**Independent?
+
+**Eileen
+**Independent?
+
+**Vera
+**Definitely. You like to control the situation.
+
+**Neil
+**Eileen thinks she **gets on** with her sisters. To **get on** with someone means to like them and have a good relationship with them.
+
+**Georgie
+**Nuala **puts** her older sister **on the spot** by asking Vera to describe her in one word. When you **put someone on the spot**, you make them answer a difficult question then and there, sometimes making them embarrassed or uncomfortable.
+
+**Neil
+**But Nuala didn't need to worry what her sisters would say - Vera simply said that Nuala **marches to her own drum** – she does things in her own way which may be different from how other people do things.
+
+**Georgie
+**It seems Vera, Nuala and Eileen have remained close friends as they've grown up, but the relationship between older, middle and younger sisters isn’t always so harmonious. Let's listen to BBC Radio 4's Woman's Hour special programme as Nuala is joined by psychotherapist, Jennifer Gledhill:
+
+**Nuala McGovern
+**Thank you very much to Eileen and Vera. What a treat to have a chat with my sisters, about sisters! I want to bring in Jennifer here who's listening to it all. Some of the stereotypes around **siblings**, that the elder sister is **bossy**, the middle sister is a peacemaker, and the little sister is **spoiled** - that is not applying to our family - but I'm wondering, is there any substance to that? Or why does that even get bandied around?
+
+**Jennifer Gledhill
+**We love giving people labels, don't we? We like to put people into categories and then we can make sense of behaviours, but actually, since then, scientists find no, no proof of being these roles in families.
+
+**Neil
+**Nuala discusses stereotypes about **siblings**, a word that means either brother or sister. One stereotype is that the older sister is usually **bossy** – she enjoys telling people what to do.
+
+**Georgie
+**Another stereotype is that the younger sister is **spoiled**. If you describe a child as **spoiled**, you mean they are allowed to do anything they want, often with the result that they behave badly.
+
+**Neil
+**What do you think about these stereotypes, Georgie? Are they true for you and your sister?
+
+**Georgie
+**I'm not sure I agree with these stereotypes because the older sister is meant to be bossy, but my younger sister is the bossy one. I don’t think I’m bossy at all.
+
+**Neil
+**Well, that’s interesting – Jennifer did say that there's no scientific proof. Anyway, it's time now to find out the answer to your question, Georgie.
+
+**Georgie
+**Yes, and my question was: What is Rachel Reeves' government job? And you guessed she was the Chancellor of the Exchequer, which was… the correct answer! Well done Neil.
+
+**Neil
+**Hooray!
+
+**Georgie
+**OK, let's recap the vocabulary we've learned in this programme, starting with the phrasal verb, **get on** with someone, meaning to have a good relationship with them.
+
+**Neil
+**If you put **someone on the** **spot**, you cause them embarrassment by forcing them to answer a difficult question at that very moment.
+
+**Georgie
+**If you **march to your own drum**, you do things in your own unique way, regardless of how other people do them.
+
+**Neil
+**A **sibling** can mean either a brother or sister.
+
+**Georgie
+**People who are **bossy** enjoy telling other people what to do.
+
+**Neil
+**And finally, a **spoiled** child is allowed to do whatever they want, becoming badly behaved as a result. Once again, our six minutes are up, but remember to head over to bbclearningenglish.com where you can find loads more fun and helpful resources, including a worksheet and quiz for this programme.
+
+**Georgie
+**Bye for now!
+
+**Neil
+**Goodbye!
+
+ 
