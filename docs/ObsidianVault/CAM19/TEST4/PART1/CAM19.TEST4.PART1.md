@@ -1,6 +1,12 @@
 # CAM19.TEST4.PART1
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/2043003520&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/haihabk51-nguyen" title="haihabk51 nguyen" target="_blank" style="color: #cccccc; text-decoration: none;">haihabk51 nguyen</a> · <a href="https://soundcloud.com/haihabk51-nguyen/cam19-test-4-part-1" title="cam19-test-4-part-1" target="_blank" style="color: #cccccc; text-decoration: none;">cam19-test-4-part-1</a></div>
 <iframe width="1200" height="315" src="https://www.youtube.com/embed/o5uyXcGWgA0?si=zMkX1XMO7a9jB9Cc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+![](https://i.imgur.com/RAnxvhU.png)
+![](https://i.imgur.com/7ln9KGb.png)
+
+> [!Answer]- Answer
+> ![](https://i.imgur.com/lkKfRIn.png)
+
 
 | English                                                                                                                                        | Vietnamese                                                                                                 | Key  Vocabulary/Structures                      |
 | ---------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- | ----------------------------------------------- |
