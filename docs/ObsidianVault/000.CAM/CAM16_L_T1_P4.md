@@ -22,7 +22,9 @@ In fact, it is something people have used throughout history to solve
 <font color="#ff0000">Thực tế, đó là thứ mà người ta đã sử dụng xuyên suốt lịch sử để giải quyết vấn đề của mình và để đạt được những thành tựu vĩ đại nhất.</font>
 
 Triumph: (n) a very great success, achievement or victory
+
 <font color="#ff0000">Triumph: (danh từ) một thành tựu, thành tích hoặc chiến thắng rất lớn.</font>
+
 Specifically, I am referring to ==Stoicism==, which, in my opinion, is **the most practical of all philosophies (Q31)**and therefore the most appealing.
 
 Stoicism was founded in Ancient ==Greece== by Zeno of Citium in the early 3rd century BC, but was practised by the likes of Epictetus, Cato.
@@ -33,6 +35,9 @@ Stoicism was founded in Ancient ==Greece== by Zeno of Citium in the 
 Seneca and Marcus Aurelius. Amazingly, we still have access to these ideas, despite the fact that **the most famous ==Stoics== never wrote anything down for ==publication==** **(Q32).** Cato definitely didn't. Marcus Aurelius never intended his _Meditations_ ==to be anything but personal==. Seneca's letters were, well, letters and Epictetus’ thoughts come to us by way of a note-taking student.
 
 Stoic principles were based on the idea that its followers could have ==an unshakable happiness== in this life and the key to achieving this was ==virtue==. 
+
+
+[[unshakable]]
 
 <font color="#ff0000">Nguyên tắc Stoic dựa trên ý tưởng rằng những người theo đuổi có thể có một hạnh phúc không lay động trong đời này và chìa khóa để đạt được điều này là đức hạnh.</font>
 
@@ -102,10 +107,42 @@ The idea is that we can take control of our lives by **challenging 
 
 Stoicism has also become popular in the world of business. 
 
-Stoic principles can build the [[resilience]] and state of mind required to overcome setbacks because **Stoics teach turning obstacles into opportunity (Q39)**. A lesson every business entrepreneur needs to learn.
+Stoic principles can build the [[resilience]] and ==state of mind== required to overcome setbacks because **Stoics teach turning obstacles into opportunity (Q39)**. A lesson every business entrepreneur needs to learn.
 
 
 <font color="#ff0000">Nguyên tắc Stoic có thể xây dựng sự bền bỉ và trạng thái tinh thần cần thiết để vượt qua thất bại vì **Stoic dạy biến trở ngại thành cơ hội (Q39)**. Một bài học mà mỗi doanh nhân cần phải học.</font>
 
 
-I would argue that study Stoicism is as relevant today as it was 2,000 years ago, thanks to its brilliant **insights into how to lead a good life (Q40)**. At the very root of the thinking, there is a very simple way of living – control what you can and accept what you can't. **This is not as easy as it sounds and will require considerable practice** – it can take a lifetime to master. The Stoics also believed the most important foundation for a good and happy life is not money, fame, power or pleasure, but having a disciplined and principled character – something which seems to resonate with many people today.
+I would argue that study Stoicism is ==as relevant today as== it was 2,000 years ago, thanks to its brilliant **insights into how to lead a good life (Q40)**. 
+
+<font color="#ff0000">Tôi cho rằng việc học chủ nghĩa khắc kỷ vẫn còn **có ý nghĩa như xưa** cách đây 2000 năm, nhờ vào những **hiểu biết sâu sắc** của nó về **cách sống một cuộc đời tốt đẹp**.</font>
+
+Tôi sẽ lập luận rằng nghiên cứu Stoicism là tương đương về tính kịp thời ngày nay như nó đã từng 2.000 năm trước, nhờ vào những **nhận thức sâu sắc về cách sống tốt (Q40)**.
+
+
+At the very root of the thinking, there is a very simple way of living – control what you can and accept what you can't. 
+
+
+<font color="#ff0000">**Ở cốt lõi của tư tưởng đó**, có một cách sống rất đơn giản – **kiểm soát những gì bạn có thể, và chấp nhận những gì bạn không thể**.</font>
+
+
+**This is not ==as easy as it sounds== and will require ==considerable== practice** –
+
+[[considerable]]
+
+
+**Điều này không dễ dàng như nó nghe đến** và sẽ yêu cầu rất nhiều thực hành
+
+
+it can take a lifetime to master.
+
+
+<font color="#ff0000">Nó có thể mất cả đời để thành thạo.</font>
+
+
+The Stoics also believed the most important foundation for a good and happy life is not money, fame, power or pleasure, but having a disciplined and principled character – something which seems to ==resonate== with many people today.
+
+<span style="background:#affad1">resonate: cộng hưởng, có tiếng vang, gây ấn tượng</span>
+
+<font color="#ff0000">Các nhà Stoic cũng tin rằng nền tảng quan trọng nhất cho một cuộc sống tốt và hạnh phúc không phải là tiền bạc, danh vọng, quyền lực hay khoái lạc, mà là có một nhân cách kỷ luật và nguyên tắc - điều này dường như vẫn đang cộng hưởng với nhiều người hôm nay.</font>
+
