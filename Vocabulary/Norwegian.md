@@ -1,25 +1,25 @@
 ---
-Anki: undefined
+Anki: "1748098974449"
 Anki-deck: cam16_t1_r4
 Anki-type: LLM_Vocabulary
 ---
 <button class="anki-btn-open">Open</button> | <button class="anki-btn-update">Update</button> | <button class="anki-btn-delete">Delete</button>
 
 ## Id
-
+ 1748098647895
 ## Term
-Greece
+Norwegian
 ## IPA
-quốc gia
+dân tộc
 
 ## Audio
-
+![[Vocabulary/Audio/Audio-1748098973965.mp3]]
 ## Def
-nước Hy Lạp
+người Na Uy, dân tộc sống ở Na Uy
 ## Examples
-nước Hy Lạp
+người Na Uy, dân tộc sống ở Na Uy
 ## Examples_Audio
 
 ## Source
- [[L-CAM16_T1_P4|L-CAM16_T1_P4]]
-[[Vocabulary/Greece|Greece]]
+ [[16.T3.P2|16.T3.P2]]
+[[Vocabulary/Norwegian|Norwegian]]

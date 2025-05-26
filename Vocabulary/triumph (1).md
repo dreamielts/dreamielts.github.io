@@ -21,5 +21,5 @@ chiến thắng, thắng lợi
 ## Examples_Audio
 
 ## Source
- [[CAM16_L_T1_P4|CAM16_L_T1_P4]]
+ [[L-CAM16_T1_P4|L-CAM16_T1_P4]]
 [[Vocabulary/triumph (1)|triumph (1)]]

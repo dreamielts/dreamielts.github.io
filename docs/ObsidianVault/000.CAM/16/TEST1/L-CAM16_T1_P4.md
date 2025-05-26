@@ -1,12 +1,12 @@
 ---
-title: "STUDY4"
-source: "https://study4.com/tests/1205/ielts-practice-set-16-listening-test-1/results/25575647/details/"
-author:
-published:
+title: CAM16_L_T1_P4
+source: https://study4.com/tests/1205/ielts-practice-set-16-listening-test-1/results/25575647/details/
+author: 
+published: 
 created: 2025-05-23
-description: "STUDY4 - học tiếng Anh và luyện thi online TOEIC, IELTS, SAT, ACT, GRE, GMAT."
+description: STUDY4 - học tiếng Anh và luyện thi online TOEIC, IELTS, SAT, ACT, GRE, GMAT.
 tags:
-  - "clippings"
+  - clippings
 ---
 
 <audio src="https://res.cloudinary.com/dqfpwqvpe/video/upload/v1748010885/yktfhxp7hixypldv7ak3.mp3" controls></audio>

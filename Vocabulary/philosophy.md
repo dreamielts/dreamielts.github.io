@@ -21,5 +21,5 @@ triết học, học thuyết, quan điểm sống
 ## Examples_Audio
 
 ## Source
- [[CAM16_L_T1_P4|CAM16_L_T1_P4]]
+ [[L-CAM16_T1_P4|L-CAM16_T1_P4]]
 [[Vocabulary/philosophy|philosophy]]

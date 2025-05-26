@@ -1,25 +1,25 @@
 ---
-Anki: undefined
+Anki: "1748125488782"
 Anki-deck: cam16_t1_r4
 Anki-type: LLM_Vocabulary
 ---
 <button class="anki-btn-open">Open</button> | <button class="anki-btn-update">Update</button> | <button class="anki-btn-delete">Delete</button>
 
 ## Id
-
+ 1748125481739
 ## Term
-Greece
+expedition
 ## IPA
-quốc gia
+nouns
 
 ## Audio
-
+![[Vocabulary/Audio/Audio-1748125487552.mp3]]
 ## Def
-nước Hy Lạp
+chuyến đi, cuộc thám hiểm
 ## Examples
-nước Hy Lạp
+chuyến đi, cuộc thám hiểm
 ## Examples_Audio
 
 ## Source
- [[L-CAM16_T1_P4|L-CAM16_T1_P4]]
-[[Vocabulary/Greece|Greece]]
+ [[16.T3.P2|16.T3.P2]]
+[[Vocabulary/expedition|expedition]]

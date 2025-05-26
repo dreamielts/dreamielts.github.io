@@ -21,5 +21,5 @@ hấp dẫn, lôi cuốn
 ## Examples_Audio
 
 ## Source
- [[docs/ObsidianVault/000.CAM/CAM16_L_T1_P4.md|CAM16_L_T1_P4]]
+ [[L-CAM16_T1_P4|L-CAM16_T1_P4]]
 [[Vocabulary/appealing (1)|appealing (1)]]
