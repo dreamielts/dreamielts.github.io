@@ -1,0 +1,240 @@
+---
+title: IELTS Practice Set 15 listening test 1-part1
+source: https://study4.com/tests/148/ielts-practice-set-15-listening-test-1/results/25702483/details/
+author: 
+published: 
+created: 2025-05-26
+description: STUDY4 - học tiếng Anh và luyện thi online TOEIC, IELTS, SAT, ACT, GRE, GMAT.
+tags:
+  - clippings
+---
+Từ điển
+
+Anh-Việt | Thesaurus | Tiếng Trung
+
+## Đáp án chi tiết: IELTS Practice Set 15 listening test 1
+
+**1**
+
+[Giải thích chi tiết đáp án](https://study4.com/tests/148/ielts-practice-set-15-listening-test-1/results/25702483/details/#questionexplanation-5669)
+
+**Trích đoạn chứa đáp án:**
+
+• Is there anyone in particular I should speak to there?  
+• The agent I always deal with is called “Becky Jamieson”.  
+• Let me write that down.
+
+  
+
+**Keyword cần chú ý:**
+
+“agent”, “Becky” là 2 từ khóa giúp xác định vị trí của câu hỏi trong bài nghe.
+
+  
+
+**Giải thích đáp án:**
+
+Câu hỏi yêu cầu điền tên của nhân viên mà người  
+gọi cần phải liên hệ để biết thêm thông tin. “Becky”  
+là 1 phần của tên đã được cho sẵn, phần còn lại  
+được đánh vần từng kí tự.
+
+**2**
+
+[Giải thích chi tiết đáp án](https://study4.com/tests/148/ielts-practice-set-15-listening-test-1/results/25702483/details/#questionexplanation-5670)
+
+**Trích đoạn chứa đáp án:**
+
+I wouldn’t call her until the afternoon if I were you. She’s always really busy in the morning trying to fill …
+
+  
+
+**Keyword cần chú ý:**
+
+Từ “call” (gọi) xuất hiện trong bài nghe là từ khóa giúp xác định đoạn chứa thông tin cần trả lời.
+
+  
+
+**Giải thích đáp án:**
+
+Câu hỏi yêu câu người nghe điền thông tin về lúc nào nên gọi điện thì tốt nhất, thể hiện qua cụm giới từ “in the…”. Trong bài, ta có thể nghe đuộc câu “I wouldn’t call her until the afternoon if I were you”, nghĩa là (tôi sẽ không gọi cho cô ấy cho đến khi trưa nếu tôi là bạn). Ngoài ra, sau đó người đàn ông còn nói rằng “she’s always really busy in the morning” - (Cô ấy luôn rất bận vào buổi sáng). Vì vậy, thời điểm thích hợp nhất để gọi cho Becky là buổi trưa.
+
+**3**
+
+[Giải thích chi tiết đáp án](https://study4.com/tests/148/ielts-practice-set-15-listening-test-1/results/25702483/details/#questionexplanation-5671)
+
+**Trích đoạn chứa đáp án:**
+
+… So what important for that kind of job isn’t so much having business skills or knowing lots of different computer systems. It’s communication that really matters
+
+  
+
+**Keyword cần chú ý:**
+
+“Must have” được paraphrase lại thành “What important…is” và động từ “matter”.
+
+  
+
+**Giải thích đáp án:**
+
+Đề bài yêu cầu người nghe điền thông tin về kỹ năng cần thiết để làm việc “Must have good…”. Phần cần điền đứng trước chữ skill có khả năng là tính từ hoặc danh từ (danh từ ghép) bổ nghĩa cho danh từ skills.  
+Trong bài nghe có nói về “business skills” tuy nhiên skills này không cần phải có quá nhiều - “isn’t so much having business skills” nên không phải là đáp án. Communication là đáp án vì được nhắc đến ở câu sau kèm với động từ “matters” (quan trọng, có ảnh hưởng).
+
+**4**
+
+Đáp án đúng:WEEK
+
+[Giải thích chi tiết đáp án](https://study4.com/tests/148/ielts-practice-set-15-listening-test-1/results/25702483/details/#questionexplanation-5672)
+
+**Trích đoạn chứa đáp án:**
+
+• So how long do people generally needs temporary staff for? It could be great if I could get something lasting at least a month.  
+• That shouldn’t be too difficult. But you’re more likely to be offered something for a week at first, which might be extended.
+
+  
+
+**Keyword cần chú ý:**
+
+“Be + độ dài thời gian” được paraphrase thành động từ “last” (kéo dài). “One” cũng được paraphrase thành “a”
+
+  
+
+**Giải thích đáp án:**
+
+“jobs are usually for at least one...” dịch là (các công việc thường ít nhất một …). Trong bài nghe có thể nghe người phụ nữ nói “It could be great if I could get something lasting at least a month” dịch nghĩa là (thật tuyệt nếu tôi có thể kiếm được công việc nào kéo dài ít nhất một tháng). Tuy nhiên, đó chỉ là kỳ vọng của cô ấy, thực tế người đàn ông cho rằng cô ấy nhiều khả năng sẽ được nhận một công việc kéo dài khoảng 1 tuần rồi có thể được kéo dài hơn nữa - “You’re more likely to be offered something for a week at first, which might be extended
+
+**5**
+
+Đáp án đúng:10/TEN
+
+[Giải thích chi tiết đáp án](https://study4.com/tests/148/ielts-practice-set-15-listening-test-1/results/25702483/details/#questionexplanation-5673)
+
+**Trích đoạn chứa đáp án:**
+
+• I heard the pay isn’t too bad, better than working in a shop or restaurant  
+• Oh yes, definitely, the hourly rate is about ten pounds, eleven if you’re lucky.  
+• That’s pretty good. I was only expecting to get 8 or 9 pounds an hour
+
+  
+
+**Keyword cần chú ý:**
+
+“hourly rate” (lương trả theo giờ) paraphrase lại cho “pay is…per hour” trong câu hỏi.
+
+  
+
+**Giải thích đáp án:**
+
+Người phụ nữ nhắc đến “pay” trong “I heard the pay isn’t too bad”. Đây là dấu hiệu giúp ta nhận biết đã đến câu hỏi 5 để tập trung lắng nghe. Người đàn ông giới thiệu việc làm nói “the hourly rate is about ten pounds, eleven if you’re lucky” (lương trả theo giờ sẽ là 10 pounds, nếu may mắn thì được 11 pounds). Ở đây ta loại đáp án 11 pounds vì người phụ nữ chỉ có thể có được mức lương này nếu may mắn - không thường xuyên như đề bài yêu cầu. Lưu ý là sau đó người phụ nói thêm “…I was only expecting to get 8 or 9 pounds an hour” (tôi chỉ mong nhận 8 hoặc 9 pounds 1 giờ). Đây chỉ là suy nghĩ của cô ấy, không phản ánh thực tế công việc. Như vậy, cần tập trung nghe từ “expect” để không mắc bẫy
+
+**6**
+
+[Giải thích chi tiết đáp án](https://study4.com/tests/148/ielts-practice-set-15-listening-test-1/results/25702483/details/#questionexplanation-5674)
+
+**Trích đoạn chứa đáp án:**
+
+• I suppose I should dress smartly if it is for office work. I could probably borrow a suit from mom.  
+• Good idea. It is better to look too smart than too casual.
+
+  
+
+**Keyword cần chú ý:**
+
+“Dress” (mặc) paraphrase lại từ “wear” trong câu hỏi đồng thời cũng là keyword giúp tập trung lắng nghe thông tin cần điền.
+
+  
+
+**Giải thích đáp án:**
+
+Người phụ nữ nói “... I should dress smartly” (tôi nên ăn mặc thông minh). Đến đây, ta vẫn chưa điền được câu trả lời vì chỗ cần điền cần chúng ta điền một danh từ (do từ “a” đứng trước chỗ trống). Vì vậy, khả năng cao câu trả lời sẽ nằm ở 1 hoặc 2 câu tiếp theo. Thực vậy, sau đó người phụ nữ nói “I could probably borrow a suit from mom” (tôi có thể mượn một bộ suit từ mẹ) và người đàn ông nói “Good idea” (ý hay) để thể hiện sự đồng ý. Như vậy, có thể thấy người phụ nữ sẽ mặc một bộ suit để đi phỏng vấn, vì vậy suit là đáp án.
+
+**7**
+
+Đáp án đúng:PASSPORT
+
+[Giải thích chi tiết đáp án](https://study4.com/tests/148/ielts-practice-set-15-listening-test-1/results/25702483/details/#questionexplanation-5675)
+
+**Trích đoạn chứa đáp án:**
+
+• Will I need to bring copies of my exam certificate or anything like that?  
+• No, they don’t need to see those, I don’t think.  
+• What’s about my passport?  
+• Oh yes, they will ask to see that.
+
+  
+
+**Keyword cần chú ý:**
+
+Keyword “bring” có thể được nghe trong bài ở câu hỏi “Will I need to bring…” giúp ta xác định vị trí của câu hỏi trong bài nghe.
+
+  
+
+**Giải thích đáp án:**
+
+Đáp án ở đây phải là một danh từ về một món đồ cần phải mang theo đến buổi phỏng vấn. Người phụ nữ trong bài nghe hỏi về 2 món đồ đó ở 2 câu hỏi “Will I need to bring copies of my exam certificate…” và “What’s about my passport”. Ở câu hỏi trước, cô ấy nhận được câu trả lời “No” nên không phải là đáp án. Ở câu hỏi thứ 2, cô ấy nhận được câu trả lời “oh yes”, vì vậy món đồ “passport” là đáp án.
+
+**8**
+
+Đáp án đúng:PERSONALITY
+
+[Giải thích chi tiết đáp án](https://study4.com/tests/148/ielts-practice-set-15-listening-test-1/results/25702483/details/#questionexplanation-5676)
+
+**Trích đoạn chứa đáp án:**
+
+• … So there are questions about personality that they always ask candidates, fairly basic ones. And they probably won’t ask anything too difficult like what your plans are for the future.  
+• Hope not.
+
+  
+
+**Keyword cần chú ý:**
+
+“They will ask questions about” được paraphrase thành “There are questions about” trong bài nghe. Ngoài ra, “applicant” (người nộp đơn xin việc) cũng được paraphrase thành “candidates” trong bài nghe.
+
+  
+
+**Giải thích đáp án:**
+
+Đáp án cần tìm là danh từ - một cái gì đó của các ứng viên. Khi ta nghe được “There are questions about…” (sẽ có các câu hỏi về...), đó là chỗ nói về thông tin của những câu hỏi được đặt ra trong buổi phỏng vấn. “personality” (tính cách) là đáp án vì nó là thông tin về những ứng mà người phỏng vấn sẽ hỏi.
+
+**9**
+
+[Giải thích chi tiết đáp án](https://study4.com/tests/148/ielts-practice-set-15-listening-test-1/results/25702483/details/#questionexplanation-5677)
+
+**Trích đoạn chứa đáp án:**
+
+Anyway, there are lots of benefits to using an agency. For example, the interview will be useful because they’ll give you feedback on your performance so you can improve next time.
+
+  
+
+**Keyword cần chú ý:**
+
+Câu hỏi yêu cầu ta điền 1 danh từ - thứ mà người ta sẽ “receive” (nhận được) ở buổi phỏng vấn mà sẽ có lợi “will benefit you”. Trong bài nghe có nói “they’ll give you feedback...” (Họ - người phỏng vấn sẽ cho bạn nhận xét…) có nghĩa tương đương với “you receive” (bạn nhận được) trong câu hỏi
+
+  
+
+**Giải thích đáp án:**
+
+Câu hỏi yêu cầu ta điền một danh từ - thứ mà bạn sẽ nhận được tại buổi phỏng vấn. Khi nghe được “The interview will be useful because they’ll will give you feedback” (Buổi phỏng vấn sẽ có ích bởi vì họ sẽ cho bạn nhận xét) thì danh từ “feedback” (nhận xét) là đáp án cần điền.
+
+**10**
+
+Đáp án đúng:TIME
+
+[Giải thích chi tiết đáp án](https://study4.com/tests/148/ielts-practice-set-15-listening-test-1/results/25702483/details/#questionexplanation-5678)
+
+**Trích đoạn chứa đáp án:**
+
+• And I expect finding a temporary job this way takes a lot less time. It’s much easier than bringing up individual companies.  
+• Yes, indeed.
+
+  
+
+**Keyword cần chú ý:**
+
+Bài nghe có nhắc đến “takes a lot less time” (tốn ít thời gian hơn) trong đó có từ “less” ứng với keyword “less” trong câu hỏi. Vì vậy, “time” là đáp án
+
+  
+
+**Giải thích đáp án:**
+
+Đáp án ở đây yêu cầu chúng điền 1 danh từ (vì đứng sau less). Danh từ này là một tính chất của việc nộp đơn xin việc do có cụm “is involved in” (bao hàm, về, liên quan đến). Vì vậy khi ta nghe nhận xét “finding a temporary job this way takes a lot less time” thì “time” (thời gian) là đáp án cần điền.
