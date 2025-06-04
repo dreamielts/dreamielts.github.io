@@ -1,0 +1,53 @@
+You will hear a radio broadcast by an announcer about making purchases overseas.
+
+First, you have some time to read three questions five to seven.
+
+Now, listen carefully and answer questions 5 -7.
+
+Good afternoon. Thanks for listening to today's broadcast of Smart Shopping.
+
+As we head into the winter season, many of you will be travelling out of the
+
+country for your annual holidays, and while away, you're likely to buy some souvenirs
+
+to bring back with you. On today's programme, I'm going to give you some tips on
+
+what to be cautious of and how to make good purchases while abroad. So my first
+
+point is about payment. Tourists from the UK are mainly accustomed to pulling out a
+
+credit card and charging just about everything. Well, that's not such a good idea
+
+when overseas for two reasons. First, there is a lot of credit card fraud.
+
+Credit card usage is simply not secure. Secondly, the seller will have to charge you
+
+anywhere between 3 % and 5 % more in credit card fees that they must pay to credit
+
+card companies. So use cash if at all possible. And that brings me to my next word
+
+of advice. Check the exchange rates offered for your currency before making payments
+
+by cash or even credit cards. Some establishments offer poor rates,
+
+so it is better to exchange your money in a bank, which ensures better rates, and
+
+use local currency in those cases. Also, it is always a good idea to get tax
+
+refunds for your purchases when possible, as it can save you a lot of money.
+
+International travellers are often eligible for these refunds in many locations and
+
+won't have to pay taxes on the items they buy. Find out ahead of time what the
+
+minimum purchase amount is and what types of purchases are eligible. And don't forget
+
+to claim your refunds at your point of departure before checking in as you may have
+
+to show the purchases to agents along with or receipts. But there are many items
+
+that you are not permitted to transport on planes or trains, so I also want to
+
+cover.
+
+You now have 15 seconds to check your answers.
