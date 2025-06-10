@@ -18,6 +18,9 @@ Day four is free for you to explore, using the **pass (Q18)** which we’ll g
 
 The last full day, day five, is for some people the highlight of the holiday, with a ride on the **steam (Q19)** railway, from Douglas to Port Erin. After some time to explore, a coach will take you to the headland that overlooks the Calf of Man, a small island just off the coast. From there you continue to Castletown, which used to be the **capital (Q20)** of the Isle of Man, and its mediaeval castle.
 
-And on day six it’s back to the ferry – or the airport, if you flew to the island – and time to go home.
+And on day six it’s back to the ferry – or the airport, if you <font color="#ff0000">flew</font> to the island – and time to go home.
 
 Now I’d like to tell you …
+
+### 10/6/2025
+![](https://res.cloudinary.com/dqfpwqvpe/image/upload/v1749535274/mlcmdovqbma83jgb85bl.png)
