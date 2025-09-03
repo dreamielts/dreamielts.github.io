@@ -1,1 +1,0 @@
-thao túng thiên nhiên

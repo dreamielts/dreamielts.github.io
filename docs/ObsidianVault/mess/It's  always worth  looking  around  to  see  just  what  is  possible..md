@@ -1,1 +1,0 @@
-<font color="#ff0000">Luôn luôn đáng để nhìn quanh để xem chỉ có thể làm gì.</font>

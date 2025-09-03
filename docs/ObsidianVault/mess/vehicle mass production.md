@@ -1,1 +1,0 @@
-sản xuất ô tô hàng loạt

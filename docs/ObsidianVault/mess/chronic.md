@@ -1,2 +1,0 @@
-
-## chronic /'krɒnik/ : mãn tính

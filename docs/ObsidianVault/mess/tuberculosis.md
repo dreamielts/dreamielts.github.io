@@ -1,1 +1,0 @@
-tuberculosis    /tju:,bɜ:kjʊ'ləʊsis/ bệnh lao
