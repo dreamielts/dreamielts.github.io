@@ -1,0 +1,458 @@
+{
+  "nodes": [
+    {
+      "id": "0",
+      "name": "Home_Page",
+      "symbolSize": 0,
+      "value": "/"
+    },
+    {
+      "id": "1",
+      "name": "000.1 OVER ALL",
+      "symbolSize": 2,
+      "value": "/000.CAM/000.1%20OVER-ALL/"
+    },
+    {
+      "id": "2",
+      "name": "15.part1-gi\u1ea3i th\u00edch",
+      "symbolSize": 1,
+      "value": "/000.CAM/15/TEST1/15.part1-gi%E1%BA%A3i%20th%C3%ADch/"
+    },
+    {
+      "id": "3",
+      "name": "L 15 Test1 1",
+      "symbolSize": 0,
+      "value": "/000.CAM/15/TEST1/L-15-Test1%201/"
+    },
+    {
+      "id": "4",
+      "name": "L 15 Test1",
+      "symbolSize": 1,
+      "value": "/000.CAM/15/TEST1/L-15-Test1/"
+    },
+    {
+      "id": "5",
+      "name": "Part2",
+      "symbolSize": 0,
+      "value": "/000.CAM/15/TEST2/part2/"
+    },
+    {
+      "id": "6",
+      "name": "CAM16_L_T1_P4",
+      "symbolSize": 1,
+      "value": "/000.CAM/16/TEST1/L-CAM16_T1_P4/"
+    },
+    {
+      "id": "7",
+      "name": "CAM16-R-T1-P1",
+      "symbolSize": 1,
+      "value": "/000.CAM/16/TEST1/R-CAM16-T1-P1/"
+    },
+    {
+      "id": "8",
+      "name": "16.T3.P2",
+      "symbolSize": 0,
+      "value": "/000.CAM/16/TEST3/16.T3.P2/"
+    },
+    {
+      "id": "9",
+      "name": "CAM14.READING1.A",
+      "symbolSize": 0,
+      "value": "/1.Project/CAM14/CAM14.READING1.A/"
+    },
+    {
+      "id": "10",
+      "name": "CAM14.READING1.B",
+      "symbolSize": 0,
+      "value": "/1.Project/CAM14/CAM14.READING1.B/"
+    },
+    {
+      "id": "11",
+      "name": "CAM14.READING1",
+      "symbolSize": 0,
+      "value": "/1.Project/CAM14/CAM14.READING1/"
+    },
+    {
+      "id": "12",
+      "name": "Index",
+      "symbolSize": 0,
+      "value": "/1.Project/CAM14/Index/"
+    },
+    {
+      "id": "13",
+      "name": "15.T1.L1",
+      "symbolSize": 0,
+      "value": "/1.Project/CAM15/Test1/15.T1.L1/"
+    },
+    {
+      "id": "14",
+      "name": "15.T1.P2.A",
+      "symbolSize": 0,
+      "value": "/1.Project/CAM15/Test1/15.T1.P2.A/"
+    },
+    {
+      "id": "15",
+      "name": "15.T1.P2.B",
+      "symbolSize": 0,
+      "value": "/1.Project/CAM15/Test1/15.T1.P2.B/"
+    },
+    {
+      "id": "16",
+      "name": "15.T1.P2.C",
+      "symbolSize": 0,
+      "value": "/1.Project/CAM15/Test1/15.T1.P2.C/"
+    },
+    {
+      "id": "17",
+      "name": "15.T1.P2.D",
+      "symbolSize": 0,
+      "value": "/1.Project/CAM15/Test1/15.T1.P2.D/"
+    },
+    {
+      "id": "18",
+      "name": "15.T1.P2.E",
+      "symbolSize": 0,
+      "value": "/1.Project/CAM15/Test1/15.T1.P2.E/"
+    },
+    {
+      "id": "19",
+      "name": "15.T1.P2.F.",
+      "symbolSize": 0,
+      "value": "/1.Project/CAM15/Test1/15.T1.P2.F./"
+    },
+    {
+      "id": "20",
+      "name": "15.T1.P2.G",
+      "symbolSize": 0,
+      "value": "/1.Project/CAM15/Test1/15.T1.P2.G/"
+    },
+    {
+      "id": "21",
+      "name": "CAM15-TEST1-READING2",
+      "symbolSize": 0,
+      "value": "/1.Project/CAM15/Test1/15_T1_R2/"
+    },
+    {
+      "id": "22",
+      "name": "temp",
+      "symbolSize": 1,
+      "value": "/1.Project/CAM15/Test2/15.R.1/"
+    },
+    {
+      "id": "23",
+      "name": "**Should we try to bring extinct species back to life?**",
+      "symbolSize": 0,
+      "value": "/1.Project/CAM15/Test2/15.R.2/"
+    },
+    {
+      "id": "24",
+      "name": "**Having a laugh**",
+      "symbolSize": 0,
+      "value": "/1.Project/CAM15/Test2/15.R.3/"
+    },
+    {
+      "id": "25",
+      "name": "15.T2.L.1",
+      "symbolSize": 0,
+      "value": "/1.Project/CAM15/Test2/15.T2.L.1/"
+    },
+    {
+      "id": "26",
+      "name": "15.T2.L.2",
+      "symbolSize": 0,
+      "value": "/1.Project/CAM15/Test2/15.T2.L.2/"
+    },
+    {
+      "id": "27",
+      "name": "15.T2.L3",
+      "symbolSize": 0,
+      "value": "/1.Project/CAM15/Test2/15.T2.L3/"
+    },
+    {
+      "id": "28",
+      "name": "15.T2.L4",
+      "symbolSize": 0,
+      "value": "/1.Project/CAM15/Test2/15.T2.L4/"
+    },
+    {
+      "id": "29",
+      "name": "15.T3.L.2",
+      "symbolSize": 0,
+      "value": "/1.Project/CAM15/Test3/15.T3.L.2/"
+    },
+    {
+      "id": "30",
+      "name": "L CAM15 TEST4 PART1",
+      "symbolSize": 2,
+      "value": "/1.Project/CAM15/Test4/L_CAM15-TEST4-PART1/"
+    },
+    {
+      "id": "31",
+      "name": "Listening Cam15 Test4 Part2",
+      "symbolSize": 0,
+      "value": "/1.Project/CAM15/Test4/Listening%20Cam15%20Test4%20Part2/"
+    },
+    {
+      "id": "32",
+      "name": "4A track11",
+      "symbolSize": 0,
+      "value": "/1.Project/Cambridge-vocabulary-for-ielts/4A-track11/"
+    },
+    {
+      "id": "33",
+      "name": "4B track12",
+      "symbolSize": 0,
+      "value": "/1.Project/Cambridge-vocabulary-for-ielts/4B-track12/"
+    },
+    {
+      "id": "34",
+      "name": "5A TRACK13",
+      "symbolSize": 0,
+      "value": "/1.Project/Cambridge-vocabulary-for-ielts/5A-TRACK13/"
+    },
+    {
+      "id": "35",
+      "name": "5B TRACK14",
+      "symbolSize": 0,
+      "value": "/1.Project/Cambridge-vocabulary-for-ielts/5B-TRACK14/"
+    },
+    {
+      "id": "36",
+      "name": "Index",
+      "symbolSize": 0,
+      "value": "/1.Project/Cambridge-vocabulary-for-ielts/Index/"
+    },
+    {
+      "id": "37",
+      "name": "TRACK15",
+      "symbolSize": 0,
+      "value": "/1.Project/Cambridge-vocabulary-for-ielts/TRACK15/"
+    },
+    {
+      "id": "38",
+      "name": "UNIT4",
+      "symbolSize": 0,
+      "value": "/1.Project/Cambridge-vocabulary-for-ielts/UNIT4/"
+    },
+    {
+      "id": "39",
+      "name": "1.a",
+      "symbolSize": 1,
+      "value": "/1.Project/Cambridge-vocabulary-for-ielts/2025/1.a/"
+    },
+    {
+      "id": "40",
+      "name": "A relationship",
+      "symbolSize": 11,
+      "value": "/1.Project/Cambridge-vocabulary-for-ielts/2025/a%20relationship/"
+    },
+    {
+      "id": "41",
+      "name": "**I. C\u1ea5u tr\u00fac 1: If (\u0110i\u1ec1u ki\u1ec7n)**",
+      "symbolSize": 0,
+      "value": "/1.Project/C%E1%BA%A5u%20tr%C3%BAc%20cho%20writing%20task%202/1-%20c%E1%BA%A5u%20tr%C3%BAc%20if/"
+    },
+    {
+      "id": "42",
+      "name": "**II.** **C\u1ea5u tr\u00fac 2: Since (v\u00ec, b\u1edfi v\u00ec)**",
+      "symbolSize": 0,
+      "value": "/1.Project/C%E1%BA%A5u%20tr%C3%BAc%20cho%20writing%20task%202/2.%20C%E1%BA%A5u%20tr%C3%BAc%20Since/"
+    },
+    {
+      "id": "43",
+      "name": "**III. C\u1ea5u tr\u00fac 3: By doing something (B\u1eb1ng c\u00e1ch l\u00e0m g\u00ec \u0111\u00f3)**",
+      "symbolSize": 0,
+      "value": "/1.Project/C%E1%BA%A5u%20tr%C3%BAc%20cho%20writing%20task%202/3.%20By%20doing%20something/"
+    },
+    {
+      "id": "44",
+      "name": "**IV. C\u1ea5u tr\u00fac 4: In order to (\u0110\u1ec3, nh\u1eb1m m\u1ee5c \u0111\u00edch)**",
+      "symbolSize": 0,
+      "value": "/1.Project/C%E1%BA%A5u%20tr%C3%BAc%20cho%20writing%20task%202/4.In%20order%20to/"
+    },
+    {
+      "id": "45",
+      "name": "Track04 cambrige grammar ielts track04",
+      "symbolSize": 0,
+      "value": "/1.Project/Grammar_For_Ielts/Track04-cambrige-grammar-ielts-track04/"
+    },
+    {
+      "id": "46",
+      "name": "Track05 Grammar for ielts",
+      "symbolSize": 0,
+      "value": "/1.Project/Grammar_For_Ielts/Track05-Grammar_for_ielts/"
+    },
+    {
+      "id": "47",
+      "name": "Gramma for Ielts- unit 0- gi\u1edbi thi\u1ec7u",
+      "symbolSize": 0,
+      "value": "/1.Project/Grammar_For_Ielts/U00-Gi%E1%BB%9Bi%20thi%E1%BB%87u/"
+    },
+    {
+      "id": "48",
+      "name": "CAM15",
+      "symbolSize": 1,
+      "value": "/2.Books/CAM15/"
+    },
+    {
+      "id": "49",
+      "name": "Cambridge Vocabulary for IELTS",
+      "symbolSize": 0,
+      "value": "/2.Books/CambridgeVocabularyforIELTS/"
+    },
+    {
+      "id": "50",
+      "name": "Dich cau co chua tu vung writing",
+      "symbolSize": 0,
+      "value": "/2.Books/Dich-cau-co-chua-tu-vung-writing/"
+    },
+    {
+      "id": "51",
+      "name": "IELTS Face off",
+      "symbolSize": 0,
+      "value": "/2.Books/IELTS_Face_off/"
+    },
+    {
+      "id": "52",
+      "name": "Nhung tu vung hoc thuat nang ban",
+      "symbolSize": 0,
+      "value": "/2.Books/Nhung-tu-vung-hoc-thuat-nang-ban/"
+    },
+    {
+      "id": "53",
+      "name": "2025 4242 Tu",
+      "symbolSize": 0,
+      "value": "/6.M/2025-4242-Tu/"
+    },
+    {
+      "id": "54",
+      "name": "3.9.2025 ",
+      "symbolSize": 0,
+      "value": "/6.M/3.9.2025-/"
+    },
+    {
+      "id": "55",
+      "name": "Close knit (1)",
+      "symbolSize": 1,
+      "value": "/Vocabulary/close-knit%20%281%29/"
+    },
+    {
+      "id": "56",
+      "name": "Close knit",
+      "symbolSize": 1,
+      "value": "/Vocabulary/close-knit/"
+    },
+    {
+      "id": "57",
+      "name": "Emotional connection (1)",
+      "symbolSize": 1,
+      "value": "/Vocabulary/emotional%20connection%20%281%29/"
+    },
+    {
+      "id": "58",
+      "name": "Emotional connection",
+      "symbolSize": 1,
+      "value": "/Vocabulary/emotional%20connection/"
+    },
+    {
+      "id": "59",
+      "name": "Inherited",
+      "symbolSize": 2,
+      "value": "/Vocabulary/inherited/"
+    },
+    {
+      "id": "60",
+      "name": "Stubborn",
+      "symbolSize": 2,
+      "value": "/Vocabulary/stubborn/"
+    },
+    {
+      "id": "61",
+      "name": "Temperament",
+      "symbolSize": 2,
+      "value": "/Vocabulary/temperament/"
+    },
+    {
+      "id": "62",
+      "name": "Unreasonable degree (1)",
+      "symbolSize": 1,
+      "value": "/Vocabulary/unreasonable%20degree%20%281%29/"
+    },
+    {
+      "id": "63",
+      "name": "Unreasonable degree",
+      "symbolSize": 1,
+      "value": "/Vocabulary/unreasonable%20degree/"
+    }
+  ],
+  "links": [
+    {
+      "source": "1",
+      "target": "6"
+    },
+    {
+      "source": "1",
+      "target": "7"
+    },
+    {
+      "source": "4",
+      "target": "2"
+    },
+    {
+      "source": "22",
+      "target": "48"
+    },
+    {
+      "source": "30",
+      "target": "30"
+    },
+    {
+      "source": "39",
+      "target": "40"
+    },
+    {
+      "source": "40",
+      "target": "40"
+    },
+    {
+      "source": "40",
+      "target": "40"
+    },
+    {
+      "source": "40",
+      "target": "40"
+    },
+    {
+      "source": "40",
+      "target": "40"
+    },
+    {
+      "source": "40",
+      "target": "40"
+    },
+    {
+      "source": "56",
+      "target": "55"
+    },
+    {
+      "source": "58",
+      "target": "57"
+    },
+    {
+      "source": "59",
+      "target": "59"
+    },
+    {
+      "source": "60",
+      "target": "60"
+    },
+    {
+      "source": "61",
+      "target": "61"
+    },
+    {
+      "source": "63",
+      "target": "62"
+    }
+  ]
+}
