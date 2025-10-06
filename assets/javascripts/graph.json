@@ -1,0 +1,514 @@
+{
+  "nodes": [
+    {
+      "id": "0",
+      "name": "Home_Page",
+      "symbolSize": 0,
+      "value": "/"
+    },
+    {
+      "id": "1",
+      "name": "A valuable addition that had a visible impact on the player's playing style",
+      "symbolSize": 0,
+      "value": "/00.NOTES/a%20valuable%20addition%20that%20had%20a%20visible%20impact%20on%20the%20player%27s%20playing%20style/"
+    },
+    {
+      "id": "2",
+      "name": "Subtle",
+      "symbolSize": 1,
+      "value": "/00.NOTES/subtle/"
+    },
+    {
+      "id": "3",
+      "name": "To pass more or less unnoticed",
+      "symbolSize": 1,
+      "value": "/00.NOTES/to%20pass%20more%20or%20less%20unnoticed/"
+    },
+    {
+      "id": "4",
+      "name": "000.1 OVER ALL",
+      "symbolSize": 2,
+      "value": "/000.CAM/000.1%20OVER-ALL/"
+    },
+    {
+      "id": "5",
+      "name": "15.part1-gi\u1ea3i th\u00edch",
+      "symbolSize": 1,
+      "value": "/000.CAM/15/TEST1/15.part1-gi%E1%BA%A3i%20th%C3%ADch/"
+    },
+    {
+      "id": "6",
+      "name": "L 15 Test1 1",
+      "symbolSize": 0,
+      "value": "/000.CAM/15/TEST1/L-15-Test1%201/"
+    },
+    {
+      "id": "7",
+      "name": "L 15 Test1",
+      "symbolSize": 1,
+      "value": "/000.CAM/15/TEST1/L-15-Test1/"
+    },
+    {
+      "id": "8",
+      "name": "Part2",
+      "symbolSize": 0,
+      "value": "/000.CAM/15/TEST2/part2/"
+    },
+    {
+      "id": "9",
+      "name": "CAM16_L_T1_P4",
+      "symbolSize": 1,
+      "value": "/000.CAM/16/TEST1/L-CAM16_T1_P4/"
+    },
+    {
+      "id": "10",
+      "name": "CAM16-R-T1-P1",
+      "symbolSize": 1,
+      "value": "/000.CAM/16/TEST1/R-CAM16-T1-P1/"
+    },
+    {
+      "id": "11",
+      "name": "16.T3.P2",
+      "symbolSize": 0,
+      "value": "/000.CAM/16/TEST3/16.T3.P2/"
+    },
+    {
+      "id": "12",
+      "name": "CAM14.READING1.A",
+      "symbolSize": 0,
+      "value": "/1.Project/CAM14/CAM14.READING1.A/"
+    },
+    {
+      "id": "13",
+      "name": "CAM14.READING1.B",
+      "symbolSize": 0,
+      "value": "/1.Project/CAM14/CAM14.READING1.B/"
+    },
+    {
+      "id": "14",
+      "name": "CAM14.READING1",
+      "symbolSize": 0,
+      "value": "/1.Project/CAM14/CAM14.READING1/"
+    },
+    {
+      "id": "15",
+      "name": "Index",
+      "symbolSize": 0,
+      "value": "/1.Project/CAM14/Index/"
+    },
+    {
+      "id": "16",
+      "name": "15.T1.L1",
+      "symbolSize": 0,
+      "value": "/1.Project/CAM15/Test1/15.T1.L1/"
+    },
+    {
+      "id": "17",
+      "name": "15.T1.P2.A",
+      "symbolSize": 0,
+      "value": "/1.Project/CAM15/Test1/15.T1.P2.A/"
+    },
+    {
+      "id": "18",
+      "name": "15.T1.P2.B",
+      "symbolSize": 0,
+      "value": "/1.Project/CAM15/Test1/15.T1.P2.B/"
+    },
+    {
+      "id": "19",
+      "name": "15.T1.P2.C",
+      "symbolSize": 0,
+      "value": "/1.Project/CAM15/Test1/15.T1.P2.C/"
+    },
+    {
+      "id": "20",
+      "name": "15.T1.P2.D",
+      "symbolSize": 0,
+      "value": "/1.Project/CAM15/Test1/15.T1.P2.D/"
+    },
+    {
+      "id": "21",
+      "name": "15.T1.P2.E",
+      "symbolSize": 0,
+      "value": "/1.Project/CAM15/Test1/15.T1.P2.E/"
+    },
+    {
+      "id": "22",
+      "name": "15.T1.P2.F.",
+      "symbolSize": 0,
+      "value": "/1.Project/CAM15/Test1/15.T1.P2.F./"
+    },
+    {
+      "id": "23",
+      "name": "15.T1.P2.G",
+      "symbolSize": 0,
+      "value": "/1.Project/CAM15/Test1/15.T1.P2.G/"
+    },
+    {
+      "id": "24",
+      "name": "CAM15-TEST1-READING2",
+      "symbolSize": 0,
+      "value": "/1.Project/CAM15/Test1/15_T1_R2/"
+    },
+    {
+      "id": "25",
+      "name": "temp",
+      "symbolSize": 1,
+      "value": "/1.Project/CAM15/Test2/15.R.1/"
+    },
+    {
+      "id": "26",
+      "name": "**Should we try to bring extinct species back to life?**",
+      "symbolSize": 0,
+      "value": "/1.Project/CAM15/Test2/15.R.2/"
+    },
+    {
+      "id": "27",
+      "name": "**Having a laugh**",
+      "symbolSize": 0,
+      "value": "/1.Project/CAM15/Test2/15.R.3/"
+    },
+    {
+      "id": "28",
+      "name": "15.T2.L.1",
+      "symbolSize": 0,
+      "value": "/1.Project/CAM15/Test2/15.T2.L.1/"
+    },
+    {
+      "id": "29",
+      "name": "15.T2.L.2",
+      "symbolSize": 0,
+      "value": "/1.Project/CAM15/Test2/15.T2.L.2/"
+    },
+    {
+      "id": "30",
+      "name": "15.T2.L3",
+      "symbolSize": 0,
+      "value": "/1.Project/CAM15/Test2/15.T2.L3/"
+    },
+    {
+      "id": "31",
+      "name": "15.T2.L4",
+      "symbolSize": 0,
+      "value": "/1.Project/CAM15/Test2/15.T2.L4/"
+    },
+    {
+      "id": "32",
+      "name": "15.T3.L.2",
+      "symbolSize": 0,
+      "value": "/1.Project/CAM15/Test3/15.T3.L.2/"
+    },
+    {
+      "id": "33",
+      "name": "L CAM15 TEST4 PART1",
+      "symbolSize": 2,
+      "value": "/1.Project/CAM15/Test4/L_CAM15-TEST4-PART1/"
+    },
+    {
+      "id": "34",
+      "name": "Listening Cam15 Test4 Part2",
+      "symbolSize": 0,
+      "value": "/1.Project/CAM15/Test4/Listening%20Cam15%20Test4%20Part2/"
+    },
+    {
+      "id": "35",
+      "name": "4A track11",
+      "symbolSize": 0,
+      "value": "/1.Project/Cambridge-vocabulary-for-ielts/4A-track11/"
+    },
+    {
+      "id": "36",
+      "name": "4B track12",
+      "symbolSize": 0,
+      "value": "/1.Project/Cambridge-vocabulary-for-ielts/4B-track12/"
+    },
+    {
+      "id": "37",
+      "name": "5A TRACK13",
+      "symbolSize": 0,
+      "value": "/1.Project/Cambridge-vocabulary-for-ielts/5A-TRACK13/"
+    },
+    {
+      "id": "38",
+      "name": "5B TRACK14",
+      "symbolSize": 0,
+      "value": "/1.Project/Cambridge-vocabulary-for-ielts/5B-TRACK14/"
+    },
+    {
+      "id": "39",
+      "name": "Index",
+      "symbolSize": 0,
+      "value": "/1.Project/Cambridge-vocabulary-for-ielts/Index/"
+    },
+    {
+      "id": "40",
+      "name": "TRACK15",
+      "symbolSize": 0,
+      "value": "/1.Project/Cambridge-vocabulary-for-ielts/TRACK15/"
+    },
+    {
+      "id": "41",
+      "name": "UNIT4",
+      "symbolSize": 0,
+      "value": "/1.Project/Cambridge-vocabulary-for-ielts/UNIT4/"
+    },
+    {
+      "id": "42",
+      "name": "1.a",
+      "symbolSize": 1,
+      "value": "/1.Project/Cambridge-vocabulary-for-ielts/2025/1.a/"
+    },
+    {
+      "id": "43",
+      "name": "A relationship",
+      "symbolSize": 11,
+      "value": "/1.Project/Cambridge-vocabulary-for-ielts/2025/a%20relationship/"
+    },
+    {
+      "id": "44",
+      "name": "**I. C\u1ea5u tr\u00fac 1: If (\u0110i\u1ec1u ki\u1ec7n)**",
+      "symbolSize": 0,
+      "value": "/1.Project/C%E1%BA%A5u%20tr%C3%BAc%20cho%20writing%20task%202/1-%20c%E1%BA%A5u%20tr%C3%BAc%20if/"
+    },
+    {
+      "id": "45",
+      "name": "**II.** **C\u1ea5u tr\u00fac 2: Since (v\u00ec, b\u1edfi v\u00ec)**",
+      "symbolSize": 0,
+      "value": "/1.Project/C%E1%BA%A5u%20tr%C3%BAc%20cho%20writing%20task%202/2.%20C%E1%BA%A5u%20tr%C3%BAc%20Since/"
+    },
+    {
+      "id": "46",
+      "name": "**III. C\u1ea5u tr\u00fac 3: By doing something (B\u1eb1ng c\u00e1ch l\u00e0m g\u00ec \u0111\u00f3)**",
+      "symbolSize": 0,
+      "value": "/1.Project/C%E1%BA%A5u%20tr%C3%BAc%20cho%20writing%20task%202/3.%20By%20doing%20something/"
+    },
+    {
+      "id": "47",
+      "name": "**IV. C\u1ea5u tr\u00fac 4: In order to (\u0110\u1ec3, nh\u1eb1m m\u1ee5c \u0111\u00edch)**",
+      "symbolSize": 0,
+      "value": "/1.Project/C%E1%BA%A5u%20tr%C3%BAc%20cho%20writing%20task%202/4.In%20order%20to/"
+    },
+    {
+      "id": "48",
+      "name": "Track04 cambrige grammar ielts track04",
+      "symbolSize": 0,
+      "value": "/1.Project/Grammar_For_Ielts/Track04-cambrige-grammar-ielts-track04/"
+    },
+    {
+      "id": "49",
+      "name": "Track05 Grammar for ielts",
+      "symbolSize": 0,
+      "value": "/1.Project/Grammar_For_Ielts/Track05-Grammar_for_ielts/"
+    },
+    {
+      "id": "50",
+      "name": "Gramma for Ielts- unit 0- gi\u1edbi thi\u1ec7u",
+      "symbolSize": 0,
+      "value": "/1.Project/Grammar_For_Ielts/U00-Gi%E1%BB%9Bi%20thi%E1%BB%87u/"
+    },
+    {
+      "id": "51",
+      "name": "19 T1 R1",
+      "symbolSize": 2,
+      "value": "/19/19-T1-R1/"
+    },
+    {
+      "id": "52",
+      "name": "CAM15",
+      "symbolSize": 1,
+      "value": "/2.Books/CAM15/"
+    },
+    {
+      "id": "53",
+      "name": "Cambridge Vocabulary for IELTS",
+      "symbolSize": 0,
+      "value": "/2.Books/CambridgeVocabularyforIELTS/"
+    },
+    {
+      "id": "54",
+      "name": "Dich cau co chua tu vung writing",
+      "symbolSize": 0,
+      "value": "/2.Books/Dich-cau-co-chua-tu-vung-writing/"
+    },
+    {
+      "id": "55",
+      "name": "IELTS Face off",
+      "symbolSize": 0,
+      "value": "/2.Books/IELTS_Face_off/"
+    },
+    {
+      "id": "56",
+      "name": "Nhung tu vung hoc thuat nang ban",
+      "symbolSize": 0,
+      "value": "/2.Books/Nhung-tu-vung-hoc-thuat-nang-ban/"
+    },
+    {
+      "id": "57",
+      "name": "2025 011 Fr",
+      "symbolSize": 0,
+      "value": "/6.M/2025-011-Fr/"
+    },
+    {
+      "id": "58",
+      "name": "2025 066 Mo",
+      "symbolSize": 0,
+      "value": "/6.M/2025-066-Mo/"
+    },
+    {
+      "id": "59",
+      "name": "2025 1414 Mo",
+      "symbolSize": 0,
+      "value": "/6.M/2025-1414-Mo/"
+    },
+    {
+      "id": "60",
+      "name": "2025 4242 Tu",
+      "symbolSize": 0,
+      "value": "/6.M/2025-4242-Tu/"
+    },
+    {
+      "id": "61",
+      "name": "2025 4545 Mo",
+      "symbolSize": 0,
+      "value": "/6.M/2025-4545-Mo/"
+    },
+    {
+      "id": "62",
+      "name": "3.9.2025 ",
+      "symbolSize": 0,
+      "value": "/6.M/3.9.2025-/"
+    },
+    {
+      "id": "63",
+      "name": "Close knit (1)",
+      "symbolSize": 1,
+      "value": "/Vocabulary/close-knit%20%281%29/"
+    },
+    {
+      "id": "64",
+      "name": "Close knit",
+      "symbolSize": 1,
+      "value": "/Vocabulary/close-knit/"
+    },
+    {
+      "id": "65",
+      "name": "Emotional connection (1)",
+      "symbolSize": 1,
+      "value": "/Vocabulary/emotional%20connection%20%281%29/"
+    },
+    {
+      "id": "66",
+      "name": "Emotional connection",
+      "symbolSize": 1,
+      "value": "/Vocabulary/emotional%20connection/"
+    },
+    {
+      "id": "67",
+      "name": "Inherited",
+      "symbolSize": 2,
+      "value": "/Vocabulary/inherited/"
+    },
+    {
+      "id": "68",
+      "name": "Stubborn",
+      "symbolSize": 2,
+      "value": "/Vocabulary/stubborn/"
+    },
+    {
+      "id": "69",
+      "name": "Temperament",
+      "symbolSize": 2,
+      "value": "/Vocabulary/temperament/"
+    },
+    {
+      "id": "70",
+      "name": "Unreasonable degree (1)",
+      "symbolSize": 1,
+      "value": "/Vocabulary/unreasonable%20degree%20%281%29/"
+    },
+    {
+      "id": "71",
+      "name": "Unreasonable degree",
+      "symbolSize": 1,
+      "value": "/Vocabulary/unreasonable%20degree/"
+    }
+  ],
+  "links": [
+    {
+      "source": "4",
+      "target": "9"
+    },
+    {
+      "source": "4",
+      "target": "10"
+    },
+    {
+      "source": "7",
+      "target": "5"
+    },
+    {
+      "source": "25",
+      "target": "52"
+    },
+    {
+      "source": "33",
+      "target": "33"
+    },
+    {
+      "source": "42",
+      "target": "43"
+    },
+    {
+      "source": "43",
+      "target": "43"
+    },
+    {
+      "source": "43",
+      "target": "43"
+    },
+    {
+      "source": "43",
+      "target": "43"
+    },
+    {
+      "source": "43",
+      "target": "43"
+    },
+    {
+      "source": "43",
+      "target": "43"
+    },
+    {
+      "source": "51",
+      "target": "2"
+    },
+    {
+      "source": "51",
+      "target": "3"
+    },
+    {
+      "source": "64",
+      "target": "63"
+    },
+    {
+      "source": "66",
+      "target": "65"
+    },
+    {
+      "source": "67",
+      "target": "67"
+    },
+    {
+      "source": "68",
+      "target": "68"
+    },
+    {
+      "source": "69",
+      "target": "69"
+    },
+    {
+      "source": "71",
+      "target": "70"
+    }
+  ]
+}
